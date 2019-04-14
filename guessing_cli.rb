@@ -1,4 +1,4 @@
 # Code your solution here!
 def guessing_game
-  guess = ""
-  while 
+inp = ""
+num = rand(1..6).to_s 
