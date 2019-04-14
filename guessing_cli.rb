@@ -13,10 +13,7 @@ def run_guessing_game
     elsif
     inp == "exit"
     puts "Goodbye!"
+    break
     end
   end
-end
-
-def exit
-  puts "Goodbye"
 end
