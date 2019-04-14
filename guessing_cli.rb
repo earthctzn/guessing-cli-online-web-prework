@@ -10,3 +10,7 @@ def guessing_game
     elsif
     inp != num
     puts "The computer guessed #{num}."
+  end
+end
+puts "Goodbye"
+end
