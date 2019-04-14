@@ -12,8 +12,8 @@ def run_guessing_game
     puts "The computer guessed #{num}."
     elsif
     inp == "exit"
-    puts "Goodbye!"
     break
+    puts "Goodbye!"
     end
   end
 end
