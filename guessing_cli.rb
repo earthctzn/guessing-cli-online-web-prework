@@ -9,4 +9,4 @@ def guessing_game
     puts "You guessed the right number!"
     elsif
     inp != num
-    puts "The computer guessed #{num}"
+    puts "The computer guessed #{num}."
