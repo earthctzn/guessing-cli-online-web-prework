@@ -17,6 +17,6 @@ def run_guessing_game
   end
 end
 
-def exit
-  puts "Goodbye"
-end
+#def exit
+  #puts "Goodbye"
+#end
